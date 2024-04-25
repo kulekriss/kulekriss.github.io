@@ -1,4 +1,4 @@
-# About me
+# Kristian the first
 
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 2; padding-right: 20px;">
