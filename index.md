@@ -14,3 +14,14 @@ Hello there! I'm thrilled to welcome you to my corner of the internet. Here, you
 ## Soccer!
 
 This is where I like to get my soccer news, just click [here](https://vglive.vg.no/). It might be in a weird language though.
+
+## Testimonials
+ But don't just take my word for it! Hear what others have to say about their experiences with my blog:
+
+"Your blog has been a constant source of inspiration for me. Keep up the great work!" - Emily
+
+"I love how you combine technical knowledge with personal experiences. Can't wait to read more!" - Mark
+
+## Get in Touch
+
+Ready to join the adventure? Connect with me and embark on this exciting journey together! Whether you have questions, feedback, or just want to say hello, I'd love to hear from you.
