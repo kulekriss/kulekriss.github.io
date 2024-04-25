@@ -1,6 +1,9 @@
 # About me
 
-![Ain't I something](images/Bilde_av_meg.jpg)
+
+<div style="text-align: right;">
+    <img src="images/Bilde_av_meg.jpg" alt="Ain't I something" style="width: 20%;">
+</div>
 
 I'm a student passionate about computer vision and deep learning, constantly exploring the endless possibilities that AI offers. From enhancing image recognition algorithms to delving into the realms of neural networks, I find immense joy in unraveling the mysteries of artificial intelligence.
 
