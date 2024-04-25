@@ -34,4 +34,4 @@ Anyway, here's a picture of some puppies:
 
 
 
-<img src="images/cute_puppies.png" alt="puppies">
+![](/images/cute_puppies.png "puppies")
