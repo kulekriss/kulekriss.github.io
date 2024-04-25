@@ -29,7 +29,7 @@ So here's to the thrill of achievement, the joy of success, and the endless poss
 Here's to getting that good grade on my blog—and to the countless adventures that await beyond.
 
 
-Anyway, here's a picture of some puppies:
+Anyways, here's a picture of some puppies:
 
 
 
