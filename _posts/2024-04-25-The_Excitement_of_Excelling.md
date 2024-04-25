@@ -34,4 +34,4 @@ Anyway, here's a picture of some puppies:
 
 
 
-![](/images/cute_puppies.png "puppies")
+![](/images/cute_puppies.PNG "puppies")
