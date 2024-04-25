@@ -14,7 +14,7 @@ In the tranquil moments between coding sessions and soccer matches, you might fi
 Feel free to connect with me and embark on this exciting adventure together!
     </div>
     <div style="flex: 1;">
-        <img src="images/Bilde_av_meg.jpg" alt="Ain't I something" style="width: 20%; max-width: 300px;">
+        <img src="images/Bilde_av_meg.jpg" alt="Ain't I something" style="width: 50%; max-width: 300px;">
     </div>
 </div>
 
