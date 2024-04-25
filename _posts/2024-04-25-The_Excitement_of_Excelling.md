@@ -32,4 +32,4 @@ Here's to getting that good grade on my blog—and to the countless adventures t
 Anyway, here's a picture of some puppies:
 
 
-![Cute puppies](images/cute_puppies.png)
+![Cute puppies](images/cute_puppies.PNG)
