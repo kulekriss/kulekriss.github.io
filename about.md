@@ -1,6 +1,6 @@
 # About me
 
-![Ain't I something](images/filename.jpg)
+![Ain't I something](images/Bilde_av_meg.jpg)
 
 I'm a student passionate about computer vision and deep learning, constantly exploring the endless possibilities that AI offers. From enhancing image recognition algorithms to delving into the realms of neural networks, I find immense joy in unraveling the mysteries of artificial intelligence.
 
