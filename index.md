@@ -11,6 +11,11 @@
 # Explore the World of Technology and Beyond
 Hello there! I'm thrilled to welcome you to my corner of the internet. Here, you'll embark on an exhilarating journey through the realms of technology, innovation, and personal discovery. Whether you're a seasoned developer, an aspiring AI enthusiast, or simply curious about the wonders of the digital world, you've come to the right place.
 
+Here's a cool equation: 
+$$
+E = mc^2
+$$
+
 ## Soccer!
 
 This is where I like to get my soccer news, just click [here](https://vglive.vg.no/). It might be in a weird language though.
