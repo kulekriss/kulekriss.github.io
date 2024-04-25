@@ -1,7 +1,7 @@
 
 
 ![Image of fast.ai logo](images/logo.png)
-<img src="images/Bilde_av_meg.jpg" alt="Ain't I something" style="width: 30%; float: right; margin-left: 20px;">
+<img src="images/Bilde_av_meg.jpg" alt="Ain't I something" style="width: 10%; float: right; margin-left: 20px;">
 
 
 ## This is a title
