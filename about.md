@@ -3,6 +3,7 @@
 <div style="display: flex; align-items: flex-start;">
     <div style="flex: 2; padding-right: 20px;">
         <!-- Your text content goes here -->
+        
 I'm a student passionate about computer vision and deep learning, constantly exploring the endless possibilities that AI offers. From enhancing image recognition algorithms to delving into the realms of neural networks, I find immense joy in unraveling the mysteries of artificial intelligence.
 
 
