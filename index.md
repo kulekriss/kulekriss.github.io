@@ -2,7 +2,7 @@
 
 <div style="display: flex;">
     <img src="images/logo.png" alt="fast.ai logo">
-    <img src="images/Bilde_av_meg.jpg" alt="Ain't I something" style="width: 16%; height: auto; margin-left: 20px;">
+    <img src="images/Bilde_av_meg.jpg" alt="Ain't I something" style="width: 16%; height: 16%; margin-left: 20px;">
 
 </div>
 
@@ -34,4 +34,6 @@ This is where I like to get my soccer news, just click [here](https://vglive.vg.
 
 ## Get in Touch
 
-Ready to join the adventure? Connect with me and embark on this exciting journey together! Whether you have questions, feedback, or just want to say hello, I'd love to hear from you.
+Ready to join the adventure? 
+Connect with me and embark on this exciting journey together! 
+Whether you have questions, feedback, or just want to say hello, I'd love to hear from you.
