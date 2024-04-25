@@ -13,7 +13,7 @@ Hello there! I'm thrilled to welcome you to my corner of the internet. Here, you
 
 Here's a cool equation: 
 $$
-\E = mc^2
+\ E = mc^2
 $$
 
 ## Soccer!
