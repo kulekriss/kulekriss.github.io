@@ -27,3 +27,9 @@ So as I sit here, poised on the brink of greatness, I can't help but feel a sens
 The journey has been long, the road filled with twists and turns, but the destination—oh, the destination—is more than worth it. 
 So here's to the thrill of achievement, the joy of success, and the endless possibilities that lie ahead. 
 Here's to getting that good grade on my blog—and to the countless adventures that await beyond.
+
+
+Anyway, here's a picture of some puppies:
+
+
+![Cute puppies](images/cute_puppies.png)
