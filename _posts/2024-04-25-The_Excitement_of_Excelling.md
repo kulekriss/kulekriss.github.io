@@ -33,6 +33,5 @@ Anyway, here's a picture of some puppies:
 
 
 
-<div style="display: flex;">
-    <img src="images/cute_puppies.PNG" alt="puppies">
-</div>
+
+<img src="images/cute_puppies.png" alt="puppies">
