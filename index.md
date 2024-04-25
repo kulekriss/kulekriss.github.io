@@ -2,7 +2,8 @@
 
 <div style="display: flex;">
     <img src="images/logo.png" alt="fast.ai logo">
-    <img src="images/Bilde_av_meg.jpg" alt="Ain't I something" style="width: 16%; margin-left: 20px;">
+    <img src="images/Bilde_av_meg.jpg" alt="Ain't I something" style="width: 16%; height: auto; margin-left: 20px;">
+
 </div>
 
 
