@@ -25,7 +25,7 @@ This is where I like to get my soccer news, just click [here](https://vglive.vg.
 
 <i>"Your blog has been a constant source of inspiration for me. Keep up the great work!"</i> - Emily
 
-<i>"I love how you combine technical knowledge with personal experiences. Can't wait to read more!"</i> - Mark
+<i>"I love how you combine technical knowledge with personal experiences."</i> - Mark
 
 ## Get in Touch
 
