@@ -18,9 +18,9 @@ This is where I like to get my soccer news, just click [here](https://vglive.vg.
 ## Testimonials
  But don't just take my word for it! Hear what others have to say about their experiences with my blog:
 
-"Your blog has been a constant source of inspiration for me. Keep up the great work!" - Emily
+<i>"Your blog has been a constant source of inspiration for me. Keep up the great work!"</i> - Emily
 
-"I love how you combine technical knowledge with personal experiences. Can't wait to read more!" - Mark
+<i>"I love how you combine technical knowledge with personal experiences. Can't wait to read more!"</i> - Mark
 
 ## Get in Touch
 
